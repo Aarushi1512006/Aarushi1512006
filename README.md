@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I'm Aarushi 👋
 
-<!--
-**Aarushi1512006/Aarushi1512006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BTech CSE (Artificial Intelligence) student  
+💡 Interested in Machine Learning, Data Science, and AI  
+🐍 Python | C++ | SQL  
+🎯 Actively learning and building Machine Learning projects
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Skills & Tools
+- Programming: Python, C++, Java 
+- Machine Learning: Pandas, NumPy, Scikit-learn  
+- Databases: SQL  
+- Tools: GitHub, Google Colab, Jupyter Notebook
+
+---
+
+## 📘 Currently Learning
+- Machine Learning algorithms  
+- Data preprocessing & feature engineering  
+- Model evaluation  
+- DSA in C++
+
+---
+
+## 🌐 Connect With Me
+- LinkedIn: www.linkedin.com/in/aarushi-ahluwalia-8b3336330  
+
+---
+
+⭐ Projects coming soon. Stay tuned!

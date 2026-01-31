@@ -28,5 +28,5 @@ My latest project involves a full regression pipeline to predict insurance charg
 ---
 
 ### 📫 How to reach me:
-* [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/aarushi-ahluwalia-8b3336330)
+* [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aarushi-ahluwalia-8b3336330)
 * [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aarushiahluwaliajaipur@gmail.com)

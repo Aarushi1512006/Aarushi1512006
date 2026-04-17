@@ -6,7 +6,6 @@
 
 ### 📊 Professional Snapshot
 * 🧠 **Core Focus:** Deep Learning, Medical Imaging, & Ensemble Learning.
-* 🏆 **LeetCode:** 200+ Problems Solved (Data Structures & Algorithms).
 * 🚀 **Deployment:** Experienced in Streamlit, Hugging Face Spaces, and FastAPI.
 
 ### 🛠 Tech Stack
@@ -32,5 +31,4 @@
 ---
 
 ### 📈 Activity & Stats
-![LeetCode Stats](https://leetcard.jacoblin.cool/TechyAarushi?theme=dark&font=Recursive)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aarushi1512006&show_icons=true&theme=tokyonight)

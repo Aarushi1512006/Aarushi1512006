@@ -1,32 +1,36 @@
-# 👋 Hi, I'm Aarushi!
+# 🩺 AI/ML Engineer | Medical AI & Computer Vision
 
-### 👩‍💻 Aspiring Data Scientist | Machine Learning Enthusiast
-
-I am a passionate data enthusiast focused on building predictive models and uncovering insights from data. Currently, I'm specializing in Python-based Machine Learning workflows.
+2nd-Year B.Tech CSE (AI) student focused on building end-to-end Machine Learning systems that solve real-world diagnostic and recommendation challenges.
 
 ---
 
-### 🛠️ Tech Stack & Tools
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)
+### 📊 Professional Snapshot
+* 🧠 **Core Focus:** Deep Learning, Medical Imaging, & Ensemble Learning.
+* 🏆 **LeetCode:** 200+ Problems Solved (Data Structures & Algorithms).
+* 🚀 **Deployment:** Experienced in Streamlit, Hugging Face Spaces, and FastAPI.
+
+### 🛠 Tech Stack
+* **Languages:** Python (Pandas, NumPy, Scikit-learn), SQL, C++.
+* **AI/DL:** TensorFlow, Keras, Computer Vision (CNNs), NLP (TF-IDF).
+* **Tools:** Git, Hugging Face, Tesseract OCR, Streamlit.
 
 ---
 
-### 🚀 Highlight Project: Insurance Cost Prediction
-My latest project involves a full regression pipeline to predict insurance charges.
-* **Key Features:** EDA, Feature Engineering (BMI categorization), and Statistical Validation.
-* **Model:** Linear Regression with ~74% R² accuracy.
-* [Check out the repository here!](https://github.com/Aarushi1512006/insurance-cost-prediction)
+### 🚀 Featured Projects
+
+#### [Breast Cancer ML Explorer](https://huggingface.co/spaces/ItsMe1501/Breast-Cancer-ML-Explorer)
+**Dual-Engine Diagnostic System** combining Vision (CNN) and Tabular (Ensemble) data.
+* **Vision Engine:** CNN trained on BreaKHis (7,909 images).
+* **Tabular Engine:** 7-model consensus (SVM, RF, XGBoost, etc.).
+* **Feature:** Integrated OCR for automated report parsing.
+
+#### [Hybrid Movie Recommender](YOUR_LINK_HERE)
+**Content-Filtering Engine** using TF-IDF and Cosine Similarity.
+* **Backend:** FastAPI for low-latency recommendation serving.
+* **Frontend:** Interactive Streamlit dashboard with TMDB API integration.
 
 ---
 
-### 📈 Profile Metrics
-![Aarushi's GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Aarushi1512006&show_icons=true&theme=tokyonight)
----
-
-### 📫 How to reach me:
-* [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aarushi-ahluwalia-8b3336330)
-* [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aarushiahluwaliajaipur@gmail.com)
+### 📈 Activity & Stats
+![LeetCode Stats](https://leetcard.jacoblin.cool/TechyAarushi?theme=dark&font=Recursive)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aarushi1512006&show_icons=true&theme=tokyonight)

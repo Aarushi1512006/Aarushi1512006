@@ -9,7 +9,7 @@
 
 ## 🎯 About Me
 
-- 🎓 2nd-year **BTech CSE (AI)** @ Poornima College of Engineering | **CGPA: 9.42/10**
+- 🎓 2nd-year **BTech CSE (AI)** 
 - 🩺 Building **medical AI diagnostics** with CNNs and ensemble ML models
 - 🚀 **3 deployed ML applications** serving live predictions on Hugging Face & Streamlit Cloud
 - 💡 Focused on: **Deep Learning, Computer Vision, Medical AI, Recommendation Systems**

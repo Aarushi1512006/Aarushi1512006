@@ -13,7 +13,7 @@
 - 🩺 Building **medical AI diagnostics** with CNNs and ensemble ML models
 - 🔒 Exploring **LLM security & adversarial robustness**
 - 🚀 **3+ deployed ML applications** serving live predictions on Hugging Face & Streamlit Cloud
-- 💡 Focused on: **Deep Learning, Computer Vision, Medical AI, LLM Safety, Recommendation Systems**
+- 💡 Focused on: **Deep Learning, Computer Vision, Medical AI, LLM Safety, RAG, Recommendation Systems**
 
 ---
 
@@ -28,6 +28,12 @@
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/ScikitLearn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+
+**LLM & AI Security**  
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-00B4D8?style=flat&logoColor=white)
+![LLM Security](https://img.shields.io/badge/LLM_Security-FF6B6B?style=flat&logoColor=white)
 
 **Data & Deployment**  
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
@@ -120,7 +126,7 @@
 
 ## 📫 Let's Connect
 
-I'm always interested in collaborating on **ML projects**, **medical AI**, **LLM security**, or **open-source contributions**.
+I'm always interested in collaborating on **ML projects**, **medical AI**, **LLM security**, **RAG systems**, or **open-source contributions**.
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/aarushi-ahluwalia-8b3336330)
 - 📧 [Email](mailto:aarushiahluwaliajaipur@gmail.com)

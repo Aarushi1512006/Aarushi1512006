@@ -112,18 +112,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  
-![Aarushi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aarushi1512006&show_icons=true&theme=radical&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aarushi1512006&layout=compact&theme=radical&hide_border=true)
-
-</div>
-
----
-
 ## 📫 Let's Connect
 
 I'm always interested in collaborating on **ML projects**, **medical AI**, **LLM security**, **RAG systems**, or **open-source contributions**.

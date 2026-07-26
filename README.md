@@ -11,8 +11,9 @@
 
 - 🎓 2nd-year **BTech CSE (AI)** 
 - 🩺 Building **medical AI diagnostics** with CNNs and ensemble ML models
-- 🚀 **3 deployed ML applications** serving live predictions on Hugging Face & Streamlit Cloud
-- 💡 Focused on: **Deep Learning, Computer Vision, Medical AI, Recommendation Systems**
+- 🔒 Exploring **LLM security & adversarial robustness**
+- 🚀 **3+ deployed ML applications** serving live predictions on Hugging Face & Streamlit Cloud
+- 💡 Focused on: **Deep Learning, Computer Vision, Medical AI, LLM Safety, Recommendation Systems**
 
 ---
 
@@ -90,6 +91,21 @@
 
 ---
 
+### 🔒 [LLM Memory-Poisoning Defense System](https://github.com/Aarushi1512006/tca-guardrail)
+[![Stars](https://img.shields.io/github/stars/Aarushi1512006/tca-guardrail?style=social)](https://github.com/Aarushi1512006/tca-guardrail)
+
+**Advanced guardrail detecting adversarial memory-poisoning attacks on Large Language Models**
+
+- 🛡️ **Memory-poisoning detection** by querying LLMs with and without context
+- 🎯 Flags directional answer flips to identify **MINJA-style reversal attacks**
+- 🔍 Defense mechanism against LLM manipulation and prompt injection attacks
+- ⚙️ Configurable sensitivity thresholds and attack pattern recognition
+- 📊 Real-time monitoring and logging of suspicious behavior
+
+**Tech:** Python · LLM APIs · Adversarial ML
+
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -104,7 +120,7 @@
 
 ## 📫 Let's Connect
 
-I'm always interested in collaborating on **ML projects**, **medical AI**, or **open-source contributions**.
+I'm always interested in collaborating on **ML projects**, **medical AI**, **LLM security**, or **open-source contributions**.
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/aarushi-ahluwalia-8b3336330)
 - 📧 [Email](mailto:aarushiahluwaliajaipur@gmail.com)

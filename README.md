@@ -9,7 +9,7 @@
 
 ## 🎯 About Me
 
-- 🎓 2nd-year **BTech CSE (AI)** 
+- 🎓 3rd-year **BTech CSE (AI)** 
 - 🩺 Building **medical AI diagnostics** with CNNs and ensemble ML models
 - 🔒 Exploring **LLM security & adversarial robustness**
 - 🚀 **3+ deployed ML applications** serving live predictions on Hugging Face & Streamlit Cloud
@@ -118,7 +118,6 @@ I'm always interested in collaborating on **ML projects**, **medical AI**, **LLM
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/aarushi-ahluwalia-8b3336330)
 - 📧 [Email](mailto:aarushiahluwaliajaipur@gmail.com)
-- 💻 [LeetCode](https://leetcode.com/TechyAarushi)
 
 ---
 

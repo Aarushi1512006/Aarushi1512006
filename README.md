@@ -36,7 +36,6 @@ class Aarushi:
 - 🔬 **Completed a 45-day research internship at MNIT Jaipur** on securing RAG-based LLM agents
 - 🛡️ Reduced memory-injection attack success from **58.7% → 9.7%** with my TCA guardrail
 - 🚀 Multiple ML/LLM apps **deployed live** (Streamlit Cloud, Render, Hugging Face)
-- 🏆 Hackathon builder: Smart India Hackathon (internal), PayPal AI Hackathon, ISRO Bharatiya Antariksh Hackathon 2026 (participation certificate)
 
 ---
 
@@ -138,15 +137,6 @@ A **store-time security guardrail** that protects RAG-based LLM agents from **an
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aarushi1512006&theme=tokyonight&hide_border=true&background=0D1117&ring=5EEAD4&fire=5EEAD4&currStreakLabel=5EEAD4" alt="streak" />
 
 </div>
-
----
-
-## 🧭 Currently
-
-- 🔭 Extending the **CI debug agent** to work on external repos with maintainer approval
-- 🔐 Taking **TCA** further: stronger evaluation and a production-ready deployment
-- 📚 Preparing for placements: DSA, core CS, system design
-- 🌱 Learning **FastAPI** deeply through a real-time content-moderation capstone
 
 ---
 
